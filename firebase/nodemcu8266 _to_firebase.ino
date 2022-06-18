@@ -5,10 +5,10 @@
  
 
 
-#define FIREBASE_HOST "emeter-afca8-default-rtdb.firebaseio.com" //Without http:// or https:// schemes
-#define FIREBASE_AUTH "QANtx1aGg8IBwJxcVfGp9H18AMAaCf18nheae9sa"
-#define WIFI_SSID "Prumwire"
-#define WIFI_PASSWORD "22580540aaa"
+#define FIREBASE_HOST "emeter-afca8-default-rtdb.firebaseio.com" //replace with your URL Without http:// or https:// schemes
+#define FIREBASE_AUTH "QANtx1aGg8IBwJxcVfGp9H18Axxxxxxxxxxxxxxx" ////replace with your authentication key
+#define WIFI_SSID "Prumwire"         // change to your network name
+#define WIFI_PASSWORD "22580540aaa"   // change to your network password
 
   #include <SoftwareSerial.h>
   
